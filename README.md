@@ -1,1 +1,2 @@
-# victoria-electricity
+# Daily Electricity Price and Demand in Victoria, Australia
+Victoria, being the second most populous state in Australia, hosts a bustling energy landscape. This dataset we're diving into provides a goldmine of daily information, allowing us to navigate through the highs and lows of daily electricity demand and the corresponding price fluctuations as well as weather information. Victoria's a busy place, and we've got a bunch of daily data to help us uncover the patterns.
